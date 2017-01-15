@@ -8,6 +8,9 @@ body {
 footer {
   margin: 50px 0;
 }
+.project {
+  margin-bottom: 20px;
+}
 .project img .img-responsive {
   border: 5px solid #666;
   border-radius: 5px;
